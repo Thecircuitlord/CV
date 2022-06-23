@@ -1,0 +1,91 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {font-size: 50px; color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {color: #66BFBF;
+  font-size:2.5rem ;
+  font-family: 'Monserrat', sans-serif;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {color: #11999E;
+  font-family: 'Monserrat', sans-serif;
+  font-weight: normal;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 4px;
+  width: 5%;
+}
+p {line-height: 2}
+.link {color: #11999E; text-decoration: none; margin: 10px 20px;}
+.contact-link {border-color: #11999E; color: white; width: 50px;}
+a:hover {color: #eaf6f6}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px; padding: 10%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px
+}
+.intro {width: 400px; margin: auto;}
+
+.middle-section {
+  background-color: white;
+  margin: 100px 0;
+}
+.bottom-section {
+  background-color: #66BFBF;
+  color: #11999E;
+  font-weight: bold;
+  margin-top: 5px;
+  padding: 20px 0 20px;
+}
+
+.achievements {margin-bottom: 50px;}
+
+.education {margin-bottom: 50px; }
+
+.Skills {margin-bottom: 0}
+
+.skill-row {margin: 50px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1;
+}
+.ul {margin: 20px auto;}
+
+.wd {float: left; margin-right: 30px; width: 25%; }
+.pc {float: right; margin-left:  30px; width: 25%; }
+.qc {float: left; margin-right: 30px; width: 25%; }
+
+.hobbies {margin-bottom: 50px; }
+
+.enquiry {margin: 30px auto;}
+
+.contact-link {background-color: #66BFBF; width: 150px; height: 30px; margin: 20px auto 0; }
+.CM { color: white; text-decoration: none; text-align: center; font-weight: bold; padding: 20px 10px;}
+
+.copyright {color: #EAF6F6; font-size: 0.75rem; padding: 20px 0;}
